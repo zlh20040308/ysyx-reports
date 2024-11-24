@@ -16,8 +16,9 @@ marp: true
 ### 已完成  
 
 1. nemu 运行 rt-thread 成功通过 difftest  
-2. 完成 PA3.3 的简易文件系统  
-3. npc 成功运行 rt-thread  
+2. npc 成功运行 rt-thread  
+3. 完成 PA3.3 的简易文件系统  
+
 
 ---  
 
