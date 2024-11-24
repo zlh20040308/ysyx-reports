@@ -15,11 +15,12 @@ marp: true
 
 ### 已完成  
 
-1. 完成 PA3.1、PA4.1（现象正常，但过不了difftest）  
-2. npc通过所有cpu-test  
+1. NPC 总线 添加完毕  
+2. 完成 PA3.3  
 
 ### 进行中  
 
-1. 为npc添加基础设施  
-2. 看difftest源代码，修bug  
+1. SOC  
+2. 
+
 
